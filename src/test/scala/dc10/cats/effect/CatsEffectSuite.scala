@@ -8,7 +8,7 @@ import scala.language.implicitConversions
 
 import munit.FunSuite
 
-class CatsEffectSuit extends FunSuite:
+class CatsEffectSuite extends FunSuite:
 
   test("ioapp val"):
 
